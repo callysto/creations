@@ -1,2 +1,3 @@
-# creations
-A repository to showcase created content from participants of Callysto events.
+# Creations
+
+A repository to showcase content created by Callysto event participants.
